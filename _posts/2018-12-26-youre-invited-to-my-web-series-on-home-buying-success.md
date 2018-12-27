@@ -31,9 +31,9 @@ I’ve worked with hundreds of homebuyers over the years, and there are three th
 
 {% include pullquote.html %}
 
-So today I’m inviting you to my annual webinar that will discuss how to best tackle these giants so you can make your way to the end of your journey. 
+So today I’m inviting you to my annual webinar that will discuss how to best tackle these giants so you can make your way to the end of your journey.&nbsp;
 
-For three nights in January fo 2019., you can join us online from the comfort of your own living room. I’ve invited industry experts who are going to help you master your money, demolish your debt, and conquer your credit.
+For three nights in January of 2019., you can join us online from the comfort of your own living room. I’ve invited industry experts who are going to help you master your money, demolish your debt, and conquer your credit.
 
 No more excuses in 2019: As long as you are determined, we are also determined to help you the possess the land that God has promised you. **Join me January 15, 16, and 17 at 8 p.m. to learn what you need to do in order to face down the three giants standing in the way of your homeownership.**
 
