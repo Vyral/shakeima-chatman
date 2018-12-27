@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You’re Invited to my Web Series on Home Buying Success
-date: 2018-12-26 20:41:45
+title: You’re Invited to My Web Series on Home Buying Success
+date: 2018-12-26 20:41:00
 tags:
   - Real Estate
 excerpt: >-
@@ -31,7 +31,7 @@ I’ve worked with hundreds of homebuyers over the years, and there are three th
 
 {% include pullquote.html %}
 
-So today I’m inviting you to my annual webinar that will discuss how to best tackle these giants so you can make your way to the end of your journey.&nbsp;
+So today I’m inviting you to my annual webinar that will discuss how to best tackle these giants so you can make your way to the end of your journey. 
 
 For three nights in January fo 2019., you can join us online from the comfort of your own living room. I’ve invited industry experts who are going to help you master your money, demolish your debt, and conquer your credit.
 
