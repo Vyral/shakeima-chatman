@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/shakeima-chatman---conquering-the-giants-youtube.jpg
-youtube_code: 'https://youtu.be/wo0Dw4ch5WI'
+youtube_code: 'https://youtu.be/Egsz0jQJOOE'
 ---
 
 {% include youtube.html %}
@@ -31,7 +31,7 @@ I’ve worked with hundreds of homebuyers over the years, and there are three th
 
 {% include pullquote.html %}
 
-So today I’m inviting you to my annual webinar that will discuss how to best tackle these giants so you can make your way to the end of your journey.&nbsp;
+So today I’m inviting you to my annual webinar that will discuss how to best tackle these giants so you can make your way to the end of your journey. 
 
 For three nights in January of 2019., you can join us online from the comfort of your own living room. I’ve invited industry experts who are going to help you master your money, demolish your debt, and conquer your credit.
 
