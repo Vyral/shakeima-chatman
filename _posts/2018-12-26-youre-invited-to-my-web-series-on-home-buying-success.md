@@ -37,6 +37,8 @@ For three nights in January of 2019., you can join us online from the comfort of
 
 No more excuses in 2019: As long as you are determined, we are also determined to help you the possess the land that God has promised you. **Join me January 15, 16, and 17 at 8 p.m. to learn what you need to do in order to face down the three giants standing in the way of your homeownership.**
 
-To register, go to <a href="http://webseries.howtopossesstheland.com/" target="_blank"><strong><u>www.WebSeries.HowToPossessTheLand.com</u></strong></a>. You’ll get access to all the videos and information you need.
+To register, go to [**<u>www.WebSeries.HowToPossessTheLand.com</u>**](http://webseries.howtopossesstheland.com/){: target="_blank"}. You’ll get access to all the videos and information you need.
 
 If you have any questions, don’t hesitate to reach out to me. I look forward to seeing you online so you can come to understand how to possess the land that God has already promised you.
+
+![](/uploads/white-boarder.png)
