@@ -41,4 +41,4 @@ To register, go to [**<u>www.WebSeries.HowToPossessTheLand.com</u>**](http://web
 
 If you have any questions, don’t hesitate to reach out to me. I look forward to seeing you online so you can come to understand how to possess the land that God has already promised you.
 
-![](/uploads/white-boarder.png)
+[![](/uploads/white-boarder.png)](http://webseries.howtopossesstheland.com/){: target="_blank"}
