@@ -15,7 +15,7 @@ client:
   name: Shakeima Chatman
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     We understand that buying or selling a home is more than just a transaction:
     it’s a life-changing experience. That’s why our team of highly-seasoned real
     estate professionals is dedicated to providing exceptional, personalized
@@ -43,8 +43,7 @@ client:
   url: 'http://www.thechatmangroupsc.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: >-
-    http://cloudcma.com/api_widget/3ba7fe83f2b04b374775db0addc90bbc/show?post_url=cloudcma.com&source_url=ua
+  first_CTA_URL: 'https://www.thechatmangroupsc.com/what-is-my-home-worth'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.thechatmangroupsc.com/listings-search/#/2033763787'
 sidebar_CTA:
