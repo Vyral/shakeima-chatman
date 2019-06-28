@@ -30,6 +30,6 @@ There will be loan officers on-site to run your credit and give you the tips and
 
 My book is based on Deuteronomy 1 and 8 where God made a special promise to the children of Israel when he told them to “go in and possess” the land he had given to them after promising Isaac, Abraham, and Jacob. **We are their ancestors, too, and because he gave that promise to them, that promise still works for us today.&nbsp;**
 
-If you’re ready to take the action and “go in and possess” your home, register for my July 13 workshop <u><a target="_blank" href="https://www.eventbrite.com/e/possess-the-land-home-buyer-workshop-tickets-62901200183"><strong>here</strong></a></u>.
+If you’re ready to take action and “go in and possess” your home, register for my July 13 workshop <u><a target="_blank" href="https://www.eventbrite.com/e/possess-the-land-home-buyer-workshop-tickets-62901200183"><strong>here</strong></a></u>.
 
 If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
