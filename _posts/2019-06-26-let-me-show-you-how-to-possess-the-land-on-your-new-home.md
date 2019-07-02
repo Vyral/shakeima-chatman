@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/shakeima-chatman---id-love-to-see-you-at-my-upcoming-workshop-youtube.jpg
-youtube_code: 'https://youtu.be/04NAHuM-pF4'
+youtube_code: 'https://youtu.be/IbAVnziKtzM'
 ---
 
 {% include youtube.html %}
