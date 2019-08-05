@@ -28,4 +28,4 @@ If you want to get the facts and information you need to feel empowered through 
 
 {% include pullquote.html %}<br>[**To view all the homebuying steps, click here or on each individual topic below:**](https://www.youtube.com/playlist?list=PLZf8TvU1OUVhp2nGorkIVGfjNQ7pt8QuO){: target="_blank"}
 
-1) Make the decision to buy<br>2) Contact a real estate agent<br>3) Get pre-qualified for a loan<br>4) Searching for a home<br>5) Making an offer<br>6) Securing financing&nbsp;<br>7) Contract-to-close phase<br>8) Final walkthrough of home
+1) Make the decision to buy<br><br>2) Contact a real estate agent<br><br>3) Get pre-qualified for a loan<br><br>4) Searching for a home<br><br>5) Making an offer<br><br>6) Securing financing&nbsp;<br><br>7) Contract-to-close phase<br><br>8) Final walkthrough of home
