@@ -26,6 +26,6 @@ Today I’m happy to be unveiling part one of my eight-part series called “8 S
 
 If you want to get the facts and information you need to feel empowered through the process, click the link below to get access to our 8-part home buying series.
 
-{% include pullquote.html %}<br><br>To view all the homebuying steps, click here or on each individual topic below:
+{% include pullquote.html %}<br>To view all the homebuying steps, click here or on each individual topic below:
 
 1) Make the decision to buy<br>2) Contact a real estate agent<br>3) Get pre-qualified for a loan<br>4) Searching for a home<br>5) Making an offer<br>6) Securing financing&nbsp;<br>7) Contract-to-close phase<br>8) Final walkthrough of home
