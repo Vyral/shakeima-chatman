@@ -22,18 +22,10 @@ youtube_code: 'https://youtu.be/d157d2e3X1o'
 
 {% include youtube.html %}
 
-The first step each and every buyer takes in their home buying journey is **making the decision to buy.&nbsp;**
+Today I’m happy to be unveiling part one of my eight-part series called “8 Steps to Buying a Home.” The first step each and every buyer takes in their home buying journey is making the decision to go forward with a purchase. I often speak with buyers who give me all sorts of reasons as to why homeownership is a rewarding pursuit for them, and today I’ll highlight three such reasons.
 
-There are various reasons why people choose to buy a home, so today I’d like to point out some of the main motivating factors I hear.&nbsp;
+If you want to get the facts and information you need to feel empowered through the process, click the link below to get access to our 8-part home buying series.
 
-For one thing, **there’s a lot of pride that comes with homeownership.** As a homeowner, you have the freedom to customize your home inside and out and to your liking, rather than needing approval from a landlord or apartment manager.
+{% include pullquote.html %}<br><br>To view all the homebuying steps, click here or on each individual topic below:
 
-{% include pullquote.html %}
-
-Plus, **there are financial incentives for purchasing a home** as well. At the beginning of your mortgage loan’s lifespan, the majority of your payments will go toward the interest on the loan. Come tax season, you can actually write off that interest.&nbsp;
-
-Purchasing a home also **creates a sense of legacy for the homeowner and their family.** When I bought my home, I knew it was something that my children and their children thereafter would grow to be proud of. &nbsp;
-
-To wrap up part one today, the first step to buying a home is really just making the decision to do so.&nbsp;
-
-If you’d like assistance with purchasing a home, please click the link below to schedule a 15-minute assessment call so we can come up with an action plan tailor-made to your home buying journey. If you have any other questions related to real estate, please feel free to reach out. I hope to hear from you soon\!<br>&nbsp;
+1) Make the decision to buy<br>2) Contact a real estate agent<br>3) Get pre-qualified for a loan<br>4) Searching for a home<br>5) Making an offer<br>6) Securing financing&nbsp;<br>7) Contract-to-close phase<br>8) Final walkthrough of home
