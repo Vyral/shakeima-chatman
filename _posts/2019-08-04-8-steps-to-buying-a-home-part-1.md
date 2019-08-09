@@ -26,7 +26,7 @@ Today I’m happy to be unveiling part one of my eight-part series called “8 S
 
 If you want to get the facts and information you need to feel empowered through the process, click the link below to get access to our eight-part home buying series.
 
-Free 15 minute Buyer Readiness Assessment to help you to develop a plan for your home ownership journey, <u><strong><a target="_blank" href="https://calendly.com/thechatmangroup/">click here.</a></strong></u>
+**Free 15 minute Buyer Readiness Assessment to help you to develop a plan for your home ownership journey,** <u><strong><a target="_blank" href="https://calendly.com/thechatmangroup/">click here.</a></strong></u>
 
 {% include pullquote.html %}<br>[**To view all the homebuying steps, click here or on each individual topic below:**](https://www.youtube.com/playlist?list=PLZf8TvU1OUVhp2nGorkIVGfjNQ7pt8QuO){: target="_blank"}
 
