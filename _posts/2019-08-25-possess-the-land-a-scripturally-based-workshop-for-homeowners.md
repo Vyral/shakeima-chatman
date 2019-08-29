@@ -15,8 +15,8 @@ pullquote: >-
   home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/shakeima-chatman---attend-my-upcoming-homeowners-workshop-youtube.jpg
 youtube_code: 'https://youtu.be/7xHbZhl0XZs'
 ---
 
@@ -30,11 +30,11 @@ If you recall when the children of Israel took that trip from Egypt to the land 
 
 **Here’s what Krystal Simmons had to say about my Possess the Land seminar:**
 
-“We all know that we can buy a house possess land, but Shakeima goes into more of the barriers that we face. So many of us think that we don’t qualify for credit or that we don’t make enough money or that we don’t have what it takes to actually buy a house, but I believe that Scripture gives you a strong foundation to push through what she calls those ‘giants.’ I think that this is something that you would want to take advantage of. There’s so much valuable information packed into one great session.”
+“We all know that we can buy a house and possess land, but Shakeima goes into more of the barriers that we face. So many of us think that we don’t qualify for credit or that we don’t make enough money or that we don’t have what it takes to actually buy a house, but I believe that Scripture gives you a strong foundation to push through what she calls those ‘giants.’ I think that this is something that you would want to take advantage of. There’s so much valuable information packed into one great session.”
 
 {% include pullquote.html %}
 
-**Rhonda Huggins had this to say about my workshop:**<br><br>“One of the things I loved most was feeling like I had someone I could trust to guide me through this workshop. There brokers there who we were able to ask our questions. We actually received all the tools that we need\! So if you’re looking to purchase a home or buy a home for you and your family, I would encourage you to seek a workshop by Shakeima. I can guarantee that you won’t be disappointed.”
+**Rhonda Huggins had this to say about my workshop:**<br><br>“One of the things I loved most was feeling like I had someone I could trust to guide me through this workshop. There were brokers there who we were able to ask our questions. We actually received all the tools that we need\! So if you’re looking to purchase a home or buy a home for you and your family, I would encourage you to seek a workshop by Shakeima. I can guarantee that you won’t be disappointed.”
 
 **Finally, Simone Baldwin&nbsp; said this**\:
 
