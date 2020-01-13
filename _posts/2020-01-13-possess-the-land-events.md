@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Possess the Land Events
-date: 2020-01-13 17:54:39
+date: 2020-01-13 17:54:00
 tags:
   - Home Buyer Tips
 excerpt: >-
