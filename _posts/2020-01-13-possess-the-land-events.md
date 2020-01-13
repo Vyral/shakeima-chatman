@@ -19,7 +19,7 @@ youtube_code: uQQJiue2_yU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Please attend our upcoming Possess the Land events to learn how you can achieve the dream of owning a home. </em></p>
+<p style="text-align: center;"><em>Please attend our upcoming Possess the Land events to learn how you can achieve the dream of owning a home.</em></p>
 
 Do you want to own a home? **It is my job to make sure you conquer every giant that has stood in the way between you and your home.** We all know that we are allowed to buy a house and possess land, but I explore the barriers people face. Many don’t think they qualify for credit, make enough money, or have what it takes to own a home.&nbsp;
 
