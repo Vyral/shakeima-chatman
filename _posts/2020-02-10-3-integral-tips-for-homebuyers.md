@@ -24,11 +24,11 @@ youtube_code: 'https://youtu.be/vrGftzCraH0'
 
 If you’ve decided that 2020 will be the year you purchase a home, I have some quick tips to help you prepare for the home buying process:&nbsp;
 
-**1\. Take a look at your savings.** While you may not need a 20% down payment, most loan programs will require at least 3% down. There are some programs that offer considerable down payment assistance beyond that, but even still, you’ll need to factor in closing costs, inspection costs, and your earnest deposit. Begin saving now; you may even want to set up a direct deposit home account so you’re not tempted to spend that money as soon as you earn it.&nbsp;
+**1\. Take a look at your savings.** While you may not need a 20% down payment, most loan programs will require at least 3% down. There are some programs that offer considerable down payment assistance beyond that, but, you’ll need to factor in closing costs, inspection costs, and your earnest deposit. Begin saving now; you may even want to set up a direct deposit home account so you’re not tempted to spend that money as soon as you earn it.&nbsp;
 
 {% include pullquote.html %}
 
-**2\. Consider your creditworthiness.** Make sure you understand what’s on your credit report. If there are any inaccuracies, now’s the time to resolve those. If you have credit cards, don’t max them out; keep your credit utilization under 30%. Avoid making any major purchases this year (e.g., new car or new furniture), as this will impact your credit.&nbsp;
+**2\. Consider your creditworthiness.** Make sure you understand what’s on your credit report. If there are any inaccuracies, now’s the time to resolve those. If you have credit cards, don’t max them out; keep your credit utilization under 30%. Avoid making any major purchases this year (e.g., new car or furniture), as this will impact your credit.&nbsp;
 
 **3\. Contact a professional.** The road to homeownership does not have to be a lonely one. A professional can help you identify loan programs that you qualify for, as well as help you reign in or restore your credit. &nbsp;
 
