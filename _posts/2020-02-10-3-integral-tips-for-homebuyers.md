@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/shakeima-chatman---tips-for-beginning-the-home-buying-process-youtube.jpg
-youtube_code: 'https://youtu.be/vrGftzCraH0'
+youtube_code: 'https://youtu.be/W3upSu6G_ZI'
 ---
 
 {% include youtube.html %}
