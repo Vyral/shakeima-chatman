@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/gWKKXgqmwqc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are three things you can do right now to help prepare your home for sale. Here’s the list.</em></p>
+
 Are you thinking of selling your home in 2020, you don’t know where to start? Here are a few things that you can be doing now to prepare your home:
 
 **1\. Take some time to declutter.** Streamline your home to make it look like a model on a new construction site. This means moving your items and organizing closets. Donate unused items so they are out of the way and you can create an environment in which homebuyers can see themselves living.
