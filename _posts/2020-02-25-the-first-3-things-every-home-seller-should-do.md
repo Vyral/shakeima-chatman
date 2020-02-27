@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/gWKKXgqmwqc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are three things you can do right now to help prepare your home for sale. Here’s the list.</em></p>
+
 *There are three things you can do right now to help prepare your home for sale. Here’s the list.*
 
 Are you thinking of selling your home in 2020, but don’t know where to start? Here are a few things that you can be doing now to prepare your home:
