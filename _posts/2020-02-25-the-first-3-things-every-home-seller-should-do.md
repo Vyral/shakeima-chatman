@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The First 3 Things Every Homeseller Should Do
-date: 2020-02-25 19:45:55
+title: The First 3 Things Every Home Seller Should Do
+date: 2020-02-25 19:45:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -19,9 +19,9 @@ youtube_code: 'https://youtu.be/gWKKXgqmwqc'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There are three things you can do right now to help prepare your home for sale. Here’s the list.</em></p>
+*There are three things you can do right now to help prepare your home for sale. Here’s the list.*
 
-Are you thinking of selling your home in 2020, you don’t know where to start? Here are a few things that you can be doing now to prepare your home:
+Are you thinking of selling your home in 2020, but don’t know where to start? Here are a few things that you can be doing now to prepare your home:
 
 **1\. Take some time to declutter.** Streamline your home to make it look like a model on a new construction site. This means moving your items and organizing closets. Donate unused items so they are out of the way and you can create an environment in which homebuyers can see themselves living.
 
@@ -29,6 +29,6 @@ Are you thinking of selling your home in 2020, you don’t know where to start? 
 
 {% include pullquote.html %}
 
-**3\. Know your numbers.** Understand what your mortgage payoff will be and what you can list your home for to get a better idea of what your net will be after the sale. You can do this by contacting a professional for a complimentary market analysis, which will identify what your net will be.
+**3\. Know your numbers.** Understand what your mortgage payoff will be and what you can list your home for to get a better idea of what your net will be after the sale. You can do this by contacting a professional for a complimentary market analysis.
 
 We’d love to help you prepare your home for sale this year. If you have questions for us or need any assistance, feel free to reach out via phone or email. We’d love to hear from you.
